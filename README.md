@@ -7,8 +7,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" alt="webstorm logo"  />
-  <img width="25" />
+
 
 
 ## 🌐 Socials:
