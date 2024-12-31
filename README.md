@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChrisnaMIT</h1>
-<h3 align="center">Hi, I am Chrisna, I am currently in my first year of web development in Lyon.</h3>
+<h3 align="center">I am currently in my first year of web development in Lyon.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
