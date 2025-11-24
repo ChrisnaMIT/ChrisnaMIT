@@ -57,7 +57,7 @@
 
 ## 📂 Featured Projects
 
-### 🛒 E-commerce —  
+### 🛒 E-commerce  
 ➡️ * Symfony A complete Symfony e-commerce platform with product management, cart logic, checkout flow and full purchase system. *  
 📎 GitHub : https://github.com/ChrisnaMIT/Ecom
 
