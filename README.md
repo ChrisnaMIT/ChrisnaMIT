@@ -57,26 +57,26 @@
 
 ## 📂 Featured Projects
 
-### 🛒 E-commerce — Fruits & Légumes  
-➡️ *Symfony + Stripe + Admin Dashboard*  
+### 🛒 E-commerce —  
+➡️ * Symfony A complete Symfony e-commerce platform with product management, cart logic, checkout flow and full purchase system. *  
 📎 GitHub : https://github.com/ChrisnaMIT/Ecom
 
 ---
 
 ### 👥 FAKEsBook — Social Network  
-➡️ *Symfony, JWT, API, posts + comments system*  
+➡️ * A social network built with Symfony featuring posts with images, comments, likes and a full follow system. *  
 📎 GitHub : https://github.com/ChrisnaMIT/fakesbook
 
 ---
 
 ### 🎬 Cinema Reservation Platform  
-➡️ *Symfony + JS (sessions, seats, ticketing logic)*  
+➡️ * Symfony A movie booking app with sessions, seat selection and reservation validation. *  
 📎 GitHub : https://github.com/ChrisnaMIT/partiel
 
 ---
 
 ### 🔍 Pokédex — API & Fetch Practice  
-➡️ *JavaScript + async fetch + DOM manipulation*  
+➡️ *JavaScript A small JS app using fetch to display Pokémon data dynamically from an external API. *  
 📎 GitHub : https://github.com/ChrisnaMIT/Pokedex
 
 ---
