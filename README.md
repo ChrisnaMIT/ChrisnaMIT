@@ -85,11 +85,12 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ChrisnaMIT&show_icons=true&theme=github_dark)
+<img src="https://github-readme-stats-godkingjay.vercel.app/api?username=ChrisnaMIT&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisnaMIT&layout=compact&theme=github_dark)
+<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=ChrisnaMIT&layout=compact&theme=github_dark" alt="Top Langs" />
 
 </div>
+
 
 ---
 
@@ -98,7 +99,8 @@
 - 📩 **Email**: chrisna.mitt@gmail.com  
 - 🔗 **GitHub**: https://github.com/ChrisnaMIT
 - 📄 **Download my CV**  
-👉 [Click here](assets/CV.pdf)
+👉 [Click here](./CV_Chrisna_2026.pdf)
+
 
 - ✨ I'm always open to collaborations, internships, and new opportunities in web development.
 
