@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Chrisna MIT</h1>
 <h3 align="center">Second-year Web Development Student — ESD Lyon</h3>
 
@@ -14,9 +13,9 @@
 ## 🚀 About Me
 
 - 🎓 **2nd-year Bachelor Student in Web Development** at **ESD Lyon**  
-- 💻 I love building projects in **PHP / Symfony**, **JavaScript**, and **Python**  
+- 💻 I develop web applications using **PHP / Symfony**, **Python / Django**, and **JavaScript**  
 - 🧪 Currently learning: **Docker**, **APIs**, **authentication**, **real-time features**, and **clean architecture**  
-- 🌱 Always improving my skills in **frontend frameworks** and **backend ecosystems**
+- 🌱 Improving my skills in **frontend frameworks** and **backend ecosystems**
 
 ---
 
@@ -28,6 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60" alt="symfony" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django" />
 
 <br>
 
@@ -57,27 +57,38 @@
 
 ## 📂 Featured Projects
 
-### 🏨 EasyPMS — Hostel Management System  
-➡️ *Symfony, Docker, PostgreSQL*  
-A full management system for hostels: rooms, beds, bookings, real-time features, QR codes and more.
+### 🛒 E-commerce — Fruits & Légumes  
+➡️ *Symfony + Stripe + Admin Dashboard*  
+📎 GitHub : https://github.com/ChrisnaMIT/Ecom
 
-### 🎬 Cinema Booking Platform  
-➡️ *Symfony + JS*  
-Seat reservation system, movies, schedules, ticketing logic.
+---
 
-### 🍏 Fruits & Légumes E-commerce  
-➡️ *Symfony + Stripe*  
-Shop + subscription system + dashboard.
+### 👥 FAKEsBook — Social Network  
+➡️ *Symfony, JWT, API, posts + comments system*  
+📎 GitHub : https://github.com/ChrisnaMIT/fakesbook
+
+---
+
+### 🎬 Cinema Reservation Platform  
+➡️ *Symfony + JS (sessions, seats, ticketing logic)*  
+📎 GitHub : https://github.com/ChrisnaMIT/partiel
+
+---
+
+### 🔍 Pokédex — API & Fetch Practice  
+➡️ *JavaScript + async fetch + DOM manipulation*  
+📎 GitHub : https://github.com/ChrisnaMIT/Pokedex
 
 ---
 
 ## 📫 Contact
 
 - 📩 **Email**: chrisna.mitt@gmail.com  
-- 🔗 **GitHub**: github.com/ChrisnaMIT  
+- 🔗 **GitHub**: https://github.com/ChrisnaMIT  
 
 ---
 
 ⭐ *Feel free to check out my repositories and follow my journey!*
+
 
 
