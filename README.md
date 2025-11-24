@@ -81,19 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-godkingjay.vercel.app/api?username=ChrisnaMIT&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=ChrisnaMIT&layout=compact&theme=github_dark" alt="Top Langs" />
-
-</div>
-
-
----
-
 ## 📫 Contact
 
 - 📩 **Email**: chrisna.mitt@gmail.com  
