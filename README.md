@@ -57,36 +57,36 @@
 
 ## 📂 Featured Projects
 
-### 🛒 E-commerce  
-➡️ * Symfony A complete Symfony e-commerce platform with product management, cart logic, checkout flow and full purchase system. *  
-📎 GitHub : https://github.com/ChrisnaMIT/Ecom
+###  E-commerce  
+ * Symfony A complete Symfony e-commerce platform with product management, cart logic, checkout flow and full purchase system. *  
+ GitHub : https://github.com/ChrisnaMIT/Ecom
 
 ---
 
-### 👥 FAKEsBook — Social Network  
-➡️ * A social network built with Symfony featuring posts with images, comments, likes and a full follow system. *  
-📎 GitHub : https://github.com/ChrisnaMIT/fakesbook
+###  FAKEsBook — Social Network  
+ * A social network built with Symfony featuring posts with images, comments, likes and a full follow system. *  
+ GitHub : https://github.com/ChrisnaMIT/fakesbook
 
 ---
 
-### 🎬 Cinema Reservation Platform  
-➡️ * Symfony A movie booking app with sessions, seat selection and reservation validation. *  
-📎 GitHub : https://github.com/ChrisnaMIT/partiel
+###  Cinema Reservation Platform  
+ * Symfony A movie booking app with sessions, seat selection and reservation validation. *  
+ GitHub : https://github.com/ChrisnaMIT/partiel
 
 ---
 
-### 🔍 Pokédex — API & Fetch Practice  
-➡️ *JavaScript A small JS app using fetch to display Pokémon data dynamically from an external API. *  
-📎 GitHub : https://github.com/ChrisnaMIT/Pokedex
+###  Pokédex — API & Fetch Practice  
+ *JavaScript A small JS app using fetch to display Pokémon data dynamically from an external API. *  
+ GitHub : https://github.com/ChrisnaMIT/Pokedex
 
 ---
 
-## 📫 Contact
+##  Contact
 
-- 📩 **Email**: chrisna.mitt@gmail.com  
-- 🔗 **GitHub**: https://github.com/ChrisnaMIT
-- 📄 **Download my CV**  
-👉 [Click here](./CV_Chrisna_2026.pdf)
+-  **Email**: chrisna.mitt@gmail.com  
+-  **GitHub**: https://github.com/ChrisnaMIT
+-  **Download my CV**  
+   [Click here](./CV_Chrisna_2026.pdf)
 
 
 - ✨ I'm always open to collaborations, internships, and new opportunities in web development.
